@@ -17,7 +17,7 @@ A conjunction-trained artificial neural network (ANN) that requires low-Earth-or
 # Code Structure
 1. Create and format a data frame
 2. Establish train and test data
-3. Complete CSVGridSearch and Train MLPRegressor ANN
+3. Complete GridSearchCV and Train MLPRegressor ANN
 5. 2014 Validation
 6. Plot error metrics
 
