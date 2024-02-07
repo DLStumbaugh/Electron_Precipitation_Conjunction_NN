@@ -20,7 +20,7 @@ File: ElectronPrecipitation.ipynb
 1. Create and format a data frame (from ConjunctionData.csv)
 2. Establish train and test data
 3. Complete GridSearchCV and Train MLPRegressor ANN
-5. 2014 Validation (from POES2014.CSV)
+5. 2014 Validation (from POES2014.csv)
 6. Plot error metrics
 
 # Correspondence
