@@ -15,10 +15,12 @@ A conjunction-trained artificial neural network (ANN) that requires low-Earth-or
 3. The OMNI data are publicly accessible at https://cdaweb.gsfc.nasa.gov/.
 
 # Code Structure
-1. Create and format a data frame
+File: ElectronPrecipitation.ipynb
+
+1. Create and format a data frame (from ConjunctionData.csv)
 2. Establish train and test data
 3. Complete GridSearchCV and Train MLPRegressor ANN
-5. 2014 Validation
+5. 2014 Validation (from POES2014.CSV)
 6. Plot error metrics
 
 # Correspondence
