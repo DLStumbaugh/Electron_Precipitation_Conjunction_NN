@@ -16,11 +16,12 @@ A conjunction-trained artificial neural network (ANN) that requires low-Earth-or
 
 # Code Structure
 File: ElectronPrecipitation.ipynb
+All code and data files are publicly accessible at https://doi.org/10.5281/zenodo.10627835
 
 1. Create and format a data frame (from ConjunctionData.csv)
 2. Establish train and test data
 3. Complete GridSearchCV and Train MLPRegressor ANN
-5. 2014 Validation (from POES2014.csv)
+5. 2014 Validation (from POES2014.csv, https://doi.org/10.5281/zenodo.10627835)
 6. Plot error metrics
 
 # Correspondence
