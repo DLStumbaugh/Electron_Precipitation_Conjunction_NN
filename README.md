@@ -14,6 +14,7 @@ A conjunction-trained artificial neural network (ANN) that requires low-Earth-or
 1. The RBSP/MagEIS ‘release 4 (rel04)’ level 3 data are publicly accessible at https://rbspgway.jhuapl.edu/.
 2. The POES/MetOp data are publicly accessible at https://www.ngdc.noaa.gov/stp/satellite/poes/dataaccess.html.
 3. The OMNI data are publicly accessible at https://cdaweb.gsfc.nasa.gov/.
+4. For the POES20172018.mat file, visit https://zenodo.org/records/14058506
 
 # Code Structure
 File: ElectronPrecipitationML.ipynb
