@@ -8,7 +8,7 @@ A conjunction-trained artificial neural network (ANN) that requires low-Earth-or
 4. scikit-learn >= 1.3.0
 5. pandas >= 2.1.4
 6. notebook >=7.0.6
-7. 7. scpy>=1.11.0
+7. scipy >=1.11.0
 
 # Data
 1. The RBSP/MagEIS ‘release 4 (rel04)’ level 3 data are publicly accessible at https://rbspgway.jhuapl.edu/.
