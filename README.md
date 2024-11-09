@@ -8,6 +8,7 @@ A conjunction-trained artificial neural network (ANN) that requires low-Earth-or
 4. scikit-learn >= 1.3.0
 5. pandas >= 2.1.4
 6. notebook >=7.0.6
+7. 7. scpy>=1.11.0
 
 # Data
 1. The RBSP/MagEIS ‘release 4 (rel04)’ level 3 data are publicly accessible at https://rbspgway.jhuapl.edu/.
@@ -15,13 +16,12 @@ A conjunction-trained artificial neural network (ANN) that requires low-Earth-or
 3. The OMNI data are publicly accessible at https://cdaweb.gsfc.nasa.gov/.
 
 # Code Structure
-File: ElectronPrecipitation.ipynb
-All code and data files are publicly accessible at https://doi.org/10.5281/zenodo.10627835
+File: ElectronPrecipitationML.ipynb
 
-1. Create and format a data frame (from ConjunctionData.csv)
+1. Create and format a data frame (from ConjunctionData.mat)
 2. Establish train and test data
 3. Complete GridSearchCV and Train MLPRegressor ANN
-5. 2014 Validation (from POES2014.csv, https://doi.org/10.5281/zenodo.10627835)
+5. May 2017- Mar 2018 Testing (from POES20172018.mat)
 6. Plot error metrics
 
 # Correspondence
